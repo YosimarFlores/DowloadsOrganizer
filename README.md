@@ -20,7 +20,7 @@ The script sorts files in the specified Downloads folder into folders according 
 ## Usage
 1. Clone or Download the Repository:
 ```
-git clone https://github.com/YosimarFlores/FileOrganizer.git
+git clone https://github.com/YosimarFlores/DowloadOrganizer.git
 ```
 2. Set the Path:
 - Update the DOWNLOADS_FOLDER variable in downloads_organizer.py to match the path of your Downloads folder. For example:
