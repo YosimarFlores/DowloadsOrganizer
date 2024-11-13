@@ -1,4 +1,4 @@
-# Downloads Organizer
+# Downloads Organizer 🗃️
 This Python script organizes files in your Downloads folder by categorizing them into subfolders based on their file types, making it easier to find files and maintain a clutter-free Downloads directory.
 
 ## How It Works
